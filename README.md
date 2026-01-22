@@ -106,6 +106,12 @@ Possible improvements for future versions:
 - Multiple themes and card designs
 - Multiplayer mode
 
+## TODO
+
+- [ ] Update the UI
+- [ ] Add levels
+- [ ] Animations
+
 ## License
 
 This project is free to use and modify for personal or educational purposes.
