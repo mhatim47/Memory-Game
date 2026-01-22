@@ -1,0 +1,21 @@
+/* Reset */
+* {
+    box-sizing: border-box;
+    /* margin: 0;
+    padding: 0; */
+}
+
+body {
+    font-family: Arial, Tahoma;
+    background-color: #eee;
+}
+
+#grid {
+    width: fit-content;
+    margin: 10px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
